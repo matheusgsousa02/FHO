@@ -1,0 +1,13 @@
+{
+    "name": "tictactoe",
+    "version": "1.0.0",
+    "description": "A tic-tac-toe game for fun",
+    "author": "Sprout",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js",
+        "test": "nodemon app.js"
+    },
+    "license": "ISC"
+}
